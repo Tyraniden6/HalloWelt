@@ -13,6 +13,7 @@ namespace HalloWelt
             Console.WriteLine("Hallo Welt!");
             Console.WriteLine("Hier wurde etwas lokal ergänzt.");
             Console.WriteLine("Hier wurde etwas über das Internet ergänzt.");
+            Console.WriteLine("Test");
             Console.ReadLine();
         }
     }
