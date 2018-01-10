@@ -11,8 +11,6 @@ namespace HalloWelt
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Welt!");
-            Console.WriteLine("Hier wurde etwas lokal ergänzt.");
-            Console.WriteLine("Hier wurde etwas über das Internet ergänzt.");
             Console.ReadLine();
         }
     }
