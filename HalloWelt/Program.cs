@@ -11,7 +11,7 @@ namespace HalloWelt
         static void Main(string[] args)
         {
             Console.WriteLine("Hallo Welt!");
-            Console.WriteLine("Über Github");
+            Console.WriteLine("Über Github2");
             Console.ReadLine();
         }
     }
